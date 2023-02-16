@@ -1,3 +1,3 @@
 # picturetest
 
-![test](test.png)
+![test](./ant-version.png)
